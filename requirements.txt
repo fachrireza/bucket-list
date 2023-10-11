@@ -1,7 +1,7 @@
-blinker==1.6.2
+blinker
 click==8.1.7
 colorama==0.4.6
-dnspython==2.4.2
+dnspython
 Flask==3.0.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
